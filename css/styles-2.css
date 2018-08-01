@@ -1,0 +1,21 @@
+h1{
+  font-style: oblique;
+  font-size: 27px;
+  font-family: monospace;
+  color: red;
+  text-align: center;
+}
+h2{
+  font-weight: lighter;
+  font-size: 20px;
+  font-family: serif;
+  color: grey;
+}
+body{
+  background-color: yellow;
+}
+p{
+  font-style: normal;
+  font-family: fantasy;
+  line-height: 7px;
+}
